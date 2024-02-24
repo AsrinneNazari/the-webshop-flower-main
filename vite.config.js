@@ -1,1 +1,1 @@
-base:"/the-webshop-flower-main"
+base:"/the-webshop-flower-main/"
