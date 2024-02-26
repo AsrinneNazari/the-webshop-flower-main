@@ -1,13 +1,13 @@
-/* import { defineConfig } from "vite";
+import { defineConfig } from "vite";
 
 export default defineConfig({
   base: '/the-webshop-flower-main/',
 },
 )
-"include": ["src"]
+/* "include": ["src"] */
 
- */
 
+/* 
 {
   "compilerOptions": {
     "target": "ES2020",
@@ -24,12 +24,11 @@ export default defineConfig({
     "noEmit": true,
 
     / Linting */
-    "strict": true,
+   /*  "strict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
   "include": ["src"]
-}
-
+} */
 
