@@ -1,7 +1,7 @@
 import { Flowers } from "./flowersClass";
 
 export const flower1 = new Flowers(
-  "./img/flower1.png",
+  "./img/flower1.jpg",
   "Yellow tulips",
   "A bouquet of yellow tulips",
   "A bouquet of yellow tulips is a stunning and vibrant display that exudes warmth, joy, and elegance. Each tulip is characterized by its graceful, slender stem and a beautifully cup-shaped blossom. The radiant yellow hue of the petals is reminiscent of sunshine, symbolizing happiness, positivity, and friendship.",
