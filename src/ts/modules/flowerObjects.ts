@@ -9,7 +9,7 @@ export const flower1 = new Flowers(
   1
 );
 export const flower2 = new Flowers(
-  "/the-webshop-flower-main/img/flower2.png",
+  "../the-webshop-flower-main/img/flower2.jpg",
   "Red tulips",
   "A bouquet of red tulips",
   "A bouquet of red tulips is a striking and passionate arrangement that captivates with its bold and vibrant beauty. Each tulip in the bouquet boasts a long, slender stem that supports a stunning cup-shaped blossom with velvety red petals. The rich and intense red color of the tulips conveys a sense of deep love, romance, and affection.",
