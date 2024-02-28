@@ -17,7 +17,7 @@ export const flower2 = new Flowers(
   2
 );
 export const flower3 = new Flowers(
-  "./src/img/flower3.jpg",
+  "the-webshop-flower-main/src/img/flower3.jpg",
   "Mixed bouquet",
   "A romantic bouquet",
   "A visually enchanting arrangement of flowers meticulously chosen to convey feelings of love, passion, and affection. In this particular bouquet, the combination of various blooms creates a symphony of colors, shapes, and scents that captivate the senses.",
