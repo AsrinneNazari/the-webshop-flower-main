@@ -11,7 +11,7 @@ export const createHamburger = () => {
     const bestSellingLink = document.createElement("a");
     const productsLink = document.createElement("a");
 
-    startLink.setAttribute("href", "/index.html");
+    startLink.setAttribute("href", "https://asrinnenazari.github.io/the-webshop-flower-main/");
     bestSellingLink.setAttribute("href", "#preview-container");
     productsLink.setAttribute("href", "#products");
 
