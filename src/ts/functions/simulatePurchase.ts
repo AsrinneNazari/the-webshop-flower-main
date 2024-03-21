@@ -22,7 +22,7 @@ export function simulatePurchase() {
     cartList.splice(0);
     setTimeout(() => {
       simLoad.style.display = "none";
-      window.location.href = "/index.html";
+      window.location.href = "https://asrinnenazari.github.io/the-webshop-flower-main/";
     }, 3000);
     loader.style.display = "none";
   }, 4000);
